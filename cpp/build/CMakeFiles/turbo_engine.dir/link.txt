@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -O3 -fPIC -O3 -DNDEBUG -shared -Wl,-soname,libturbo_engine.so -o libturbo_engine.so CMakeFiles/turbo_engine.dir/turbo_engine.cpp.o  /usr/lib/x86_64-linux-gnu/libcurl.so

@@ -1,0 +1,24 @@
+[package]
+name = "overkill_bot"
+authors = ["Knap_ababusa"]
+description = "Noone(U GOT, LIKE /NOONE COMMAND!!!) will read it, but its cool tg bot, which cares about privacy, python - for the weak"
+license = "MIT"
+version = "3.3.1"
+edition = "2021"
+[dependencies]
+teloxide = { version = "0.17.0", features = ["macros"] }
+tokio = { version = "1", features = ["full"] }
+serde = { version = "1", features = ["derive"] }
+bincode = "1.3.3"
+rand = "0.8.5"
+chrono = "0.4"
+dotenv = "0.15"
+env_logger = "0.11"
+log = "0.4"
+dptree = "0.2"
+aes-gcm = "0.10"
+sha2 = "0.10"
+zeroize = "1.7"
+hex = "0.4"
+[build-dependencies]
+cc = "1.2"

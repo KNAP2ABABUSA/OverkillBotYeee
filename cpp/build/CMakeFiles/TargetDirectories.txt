@@ -1,0 +1,3 @@
+/home/knapababusa/Документы/TGBOTS/OverKill/cpp/build/CMakeFiles/turbo_engine.dir
+/home/knapababusa/Документы/TGBOTS/OverKill/cpp/build/CMakeFiles/edit_cache.dir
+/home/knapababusa/Документы/TGBOTS/OverKill/cpp/build/CMakeFiles/rebuild_cache.dir
